@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import App from "./App.js";
 const reasons = [
   "You always listen to what I'm saying, even before we were dating",
   "Even in my most retarded moments (K), you still accepted me",
